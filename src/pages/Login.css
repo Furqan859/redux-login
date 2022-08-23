@@ -1,0 +1,118 @@
+.login-main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+}
+
+.customer-login{
+    font-size: 60px;
+    color: #454545;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: -1.5px;
+    margin-bottom: 20px;
+    line-height: 1;
+   
+}
+
+
+
+.login-table-one{
+    height:350px;
+    width: 600px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    border: 1px solid #454545;
+    padding:20px;
+}
+
+h5{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding-bottom: 12px;
+    font-size: 16px;
+    color: #292929;
+    font-family: 'Helvetica Neue',sans-serif;
+    line-height: 22px;
+    font-weight: bold;
+}
+
+.input-login{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.input-styling-login-input{
+    margin-bottom: 10px;
+    height: 50px;
+    border: 1px solid #ebebeb;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    padding: 5px;
+    box-shadow: none;
+
+    background-color: #fff;
+    border-radius: 0;
+
+}
+
+.input-styling-login-input:focus{
+   outline: none;
+}
+
+.input-styling-login{
+    margin-bottom: 10px;
+    height: 50px;
+    border: 1px solid #ebebeb;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    padding: 5px;
+    box-shadow: none;
+    
+    background-color: #fff;
+    border-radius: 0;
+
+}
+
+
+.input-styling-login:focus{
+    outline: none;
+ }
+
+ .sign-in-button{
+    color: #fff;
+    border-color: #231f20;
+    border-radius: 30px;
+    color: #000;
+    padding: 14px 35px;
+    font-size: 13px;
+    letter-spacing: .5px;
+    text-transform: none;
+    white-space: normal;
+    background-color: #f4ae1a;
+    outline: none!important;
+    border: 2px solid #f4ae1a;
+    margin-top: 20px;
+ }
+ 
+
+
+ .forgot-password-link{
+    font-size: 13px;
+    padding-left: 0;
+    color: #014b68;
+    margin-left: 15px;
+    align-self:center;
+    text-decoration: none
+ }
+
+
+ .button-password-div{
+    display: flex;
+    
+ }
